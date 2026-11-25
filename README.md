@@ -12,7 +12,7 @@ I’m a BCA student passionate about technology, artificial intelligence, softwa
 I enjoy transforming ideas into practical projects and exploring how AI can make technology more useful and accessible.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Chakravartip-181717?style=for-the-badge&logo=github)](https://github.com/Chakravartip)
-[![Instagram](https://img.shields.io/badge/Instagram-perfect_cuts_143-background: linear-gradient(45deg, rgb(131, 58, 180) 0%, rgb(253, 29, 29) 50%, rgb(252, 175, 69) 100%?style=for-the-badge&logo=Instagram)](https://www.instagram.com/@perfect_cuts_143)
+[![Instagram](https://img.shields.io/badge/Instagram-perfect__cuts__143-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/perfect_cuts_143/)
 
 </div>
 
