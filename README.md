@@ -78,7 +78,8 @@ An original mythology-inspired storytelling project.
 ## 🤝 Let's Connect
 
 - **GitHub:** [@Chakravartip](https://github.com/Chakravartip)
-
+- **Instagram1:** [@perfect_cuts_143](https://www.instagram.com/)
+- **Instagram2:** [@emperor_studio7](https://www.instagram.com/)
 ---
 
 <div align="center">
